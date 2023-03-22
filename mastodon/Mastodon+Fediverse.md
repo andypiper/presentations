@@ -1,13 +1,11 @@
 # Introduction to Mastodon (& the Fediverse)
 
-![](media/fediverse.png)
+![](https://commons.wikimedia.org/wiki/File:Fediverse_logo_proposal.svg)
 
-
-
-`https://commons.wikimedia.org/wiki/File:Fediverse_logo_proposal.svg`
 ---
 ## Who am I? 
 	**Andy Piper @andypiper@macaw.social andypiper.me**
+	
 ---
 ## Session goals
 - cover Mastodon + Fediverse concepts; walkthrough i.e. show + do
@@ -20,6 +18,7 @@
     - how to set up a Mastodon server
     - how to measure usage
     - how to do "everything" :-)
+  
 ---
 ## What is it (who / where / why)
 
@@ -37,6 +36,7 @@
     - marginalised communities vs Twitter
 	- approach to search + discovery
 	- approach to "selling" on platform - not a popular approach!
+
 ---
 ## How does it work
 
@@ -46,17 +46,16 @@
 	- Replies
 	- Direct messages (visibility)
 	- *no ads -> support your instance directly*
+
 ---
 ## Content visibility
 
 ---
 
-![](media/2f0d89cbbd8d43d99d520685052eaa91.png)
-
-
-`https://cdn.masto.host/twitsocial/media_attachments/files/109/376/230/899/326/681/original/0c93443b1c78b3e6.png`
+![](https://cdn.masto.host/twitsocial/media_attachments/files/109/376/230/899/326/681/original/0c93443b1c78b3e6.png)
 
 Hashtagging is useful - Hashtags are indexed / can be followed
+
 ---
 ## Accounts
 
@@ -84,10 +83,8 @@ I followed this https://codingitwrong.com/2022/10/10/migrating-a-mastodon-accoun
 
 ---
 
-![](media/fediverse-branches-axbom-30-CC-BY-SA.webp)
+![](https://axbom.com/content/images/size/w2000/2023/01/fediverse-branches-axbom-30-CC-BY-SA.webp)
 
-
-`https://axbom.com/content/images/size/w2000/2023/01/fediverse-branches-axbom-30-CC-BY-SA.webp`
 eg.
 - Video: PeerTube
 - Images: Pixelfed
@@ -134,7 +131,6 @@ Also there's a FOSS list [here](https://fedi.directory/tag/foss/) and another on
 
 DevRel folks on Mastodon - https://github.com/rmoff/devrel-mastodon
 
-* * *
 ---
 ## What about my reach?
 
